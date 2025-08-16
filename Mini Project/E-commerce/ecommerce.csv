@@ -1,0 +1,16 @@
+OrderID,Customer,Product,Quantity,Price,Date
+1001,Shreyas,Laptop,1,55000,2025-08-01
+1002,Pragati,Headphones,2,1500,2025-08-01
+1003,Amit,Smartphone,1,22000,2025-08-02
+1004,Neha,Keyboard,1,1200,2025-08-02
+1005,Rohan,Mouse,3,600,2025-08-03
+1006,Sneha,Monitor,1,9000,2025-08-03
+1007,Vikas,Laptop,2,54000,2025-08-04
+1008,Pooja,Smartwatch,1,7000,2025-08-04
+1009,Arjun,Tablet,1,18000,2025-08-05
+1010,Ananya,Charger,2,800,2025-08-05
+1011,Kiran,Headphones,1,1600,2025-08-06
+1012,Meera,Smartphone,1,21000,2025-08-06
+1013,Rahul,Laptop,1,56000,2025-08-07
+1014,Tanvi,Keyboard,2,1100,2025-08-07
+1015,Dev,Mouse,1,550,2025-08-08
